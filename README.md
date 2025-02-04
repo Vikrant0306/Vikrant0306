@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm Vikrant.<br>🚀 Building projects on Machine Learning and Deep Learning<br>🔍 Passionate about Deep Learning and UI/UX<br>🛠️ Building projects in AI, automation, and accessibility<br>📌 Currently working on various DL concepts<br>💡 Always learning, always innovating<br><br>Let's connect and collaborate! 🚀
+👋 Hey there! I'm Vikrant.<br>🚀 Building projects on Machine Learning and Deep Learning<br>🔍 Passionate about Deep Learning and UI/UX<br>📌 Currently working on various DL concepts<br>💡 Always learning, always innovating<br><br>Let's connect and collaborate! 🚀
 
 
 ## 🌐 Socials:
